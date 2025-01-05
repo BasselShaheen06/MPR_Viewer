@@ -90,7 +90,7 @@ The MRI scan can be viewed in multiple slices. Below is an example of a slice vi
 
 ## Video for the app
 https://github.com/user-attachments/assets/a6f0bf49-2bff-4698-bca1-c8b34a46835f
----
+
 
 ## Future Enhancements
 
