@@ -78,14 +78,14 @@ pip install PyQt5 matplotlib SimpleITK vtk numpy
 
 The MRI scan can be viewed in multiple slices. Below is an example of a slice view:
 
-![Axial slice View](Docs\Brain_Views\axial_slice.jpg)
+![Axial slice View](MPR-Viewer\Docs\Brain_Views\axial_slice.jpg)
 ---
 
 ## Screenshots
 
-![Axial, Coronal, and Sagittal slices in synchronized crosshair mode](screenshots\Screenshot3.png)
+![Axial, Coronal, and Sagittal slices in synchronized crosshair mode](MPR-Viewer\screenshots\Screenshot3.png)
 
-![Axial, Coronal, and Sagittal slices in synchronized crosshair mode in addition to the 3d volume](screenshots\Screenshot1.png)
+![Axial, Coronal, and Sagittal slices in synchronized crosshair mode in addition to the 3d volume](MPR-Viewer\screenshots\Screenshot1.png)
 ---
 
 ## Future Enhancements
