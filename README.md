@@ -88,6 +88,10 @@ The MRI scan can be viewed in multiple slices. Below is an example of a slice vi
 ![Axial, Coronal, and Sagittal slices in synchronized crosshair mode in addition to the 3d volume](screenshots/Screenshot1.png)
 ---
 
+## Video for the app
+https://github.com/user-attachments/assets/a6f0bf49-2bff-4698-bca1-c8b34a46835f
+---
+
 ## Future Enhancements
 
 - Incorporate segmentation overlays for enhanced analysis.
@@ -115,5 +119,5 @@ Contributions are welcome! Please open an issue or submit a pull request to help
 
 
 
-https://github.com/user-attachments/assets/a6f0bf49-2bff-4698-bca1-c8b34a46835f
+
 
